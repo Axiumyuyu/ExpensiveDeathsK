@@ -1,0 +1,12 @@
+name: ExpensiveDeathsK
+version: '1.0.0'
+main: me.axiumyu.expensivedeathsk.ExpensiveDeathsK
+api-version: '1.21'
+libraries:
+  - "org.jetbrains.kotlin:kotlin-stdlib-jdk8:2.0.10"
+commands:
+  expdeath:
+    description: ExpensiveDeathsK command
+    usage: /<command>
+    permission: expensivedeathsk.admin
+

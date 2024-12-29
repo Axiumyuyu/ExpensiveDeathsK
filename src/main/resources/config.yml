@@ -1,0 +1,4 @@
+max-cost: 500
+min-cost: 100
+max-lose-hearts: 4
+min-lose-hearts: 1
